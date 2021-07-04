@@ -8,3 +8,21 @@ h1 {font-size: 42px;
     font-family: 'Lobster', cursive;
 }
 .orange-color{color:orange;}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    width: 70%;
+    padding: 5%;
+}
+.link-button{
+    font-weight: 700;
+    text-decoration: none;
+    background-image: linear-gradient(rgb(112, 14, 112),rgba(17, 34, 133, 0.856));
+    padding: 20px 40px ;
+    border-radius: 10px;
+    color:  white;
+}
