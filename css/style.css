@@ -1,7 +1,10 @@
 body{
-    background-color: lightblue;
+    background-color: rgb(255, 255, 255);
+    font-family: ;
 }
-h1 {
-    color: red;
+h1 {font-size: 42px;
+    color: rgb(12, 1, 1);
     margin-left: 20px;
+    font-family: 'Lobster', cursive;
 }
+.orange-color{color:orange;}
