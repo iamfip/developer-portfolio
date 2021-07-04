@@ -1,6 +1,9 @@
 body{
     background-color: rgb(255, 255, 255);
-    font-family: ;
+    @font-face {
+        font-family: HARRYP__;
+        src: url(fonts/harry-p-font/harry_p/HARRYP__.TTF);
+    }
 }
 h1 {font-size: 42px;
     color: rgb(12, 1, 1);
